@@ -1,0 +1,69 @@
+{
+    "products": [
+      {
+        "id": "equipos-vehiculos",
+        "name": "Equipos para vehículos",
+        "price": 150,
+        "description": "Equipo esencial para la seguridad en vehículos.",
+        "category": "Vehículos",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "agua-bajo-presion",
+        "name": "Extintor Agua a Baja Presión",
+        "price": 80,
+        "description": "Extintor eficaz para incendios clase A.",
+        "category": "Extintores",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "senalizacion",
+        "name": "Señalización para extintores",
+        "price": 15,
+        "description": "Carteles para identificar extintores fácilmente.",
+        "category": "Señalización",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "polvo-quimico-clase-d",
+        "name": "Polvo Químico Clase D",
+        "price": 100,
+        "description": "Extintor en polvo para incendios metálicos.",
+        "category": "Extintores",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "solucion-quimica-pulverizada",
+        "name": "Solución Química Pulverizada",
+        "price": 120,
+        "description": "Agente químico para sofocar incendios rápidamente.",
+        "category": "Extintores",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "polvo-bajo-presion",
+        "name": "Polvo Bajo Presión",
+        "price": 90,
+        "description": "Extintor multiuso para incendios clase ABC.",
+        "category": "Extintores",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "anhidride-carbonico",
+        "name": "Anhídrido Carbónico (CO2)",
+        "price": 110,
+        "description": "Extintor para incendios eléctricos y líquidos.",
+        "category": "Extintores",
+        "imageUrl": "https://via.placeholder.com/150"
+      },
+      {
+        "id": "hcfc-123",
+        "name": "Extintor HCFC-123",
+        "price": 130,
+        "description": "Extintor para incendios clase A y B.",
+        "category": "Extintores",
+        "imageUrl": "https://via.placeholder.com/150"
+      }
+    ]
+  }
+  
